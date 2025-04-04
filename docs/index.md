@@ -1,3 +1,4 @@
+![Screenshot_۲۰۲۵-۰۴-۰۴-۱۹-۲۵-۲۲-۲۲۵_com microsoft copilot](https://github.com/user-attachments/assets/9724ed67-c173-4513-80c8-a159b761b02c)
 ---
 title: Remix Docs Home
 order: 1
